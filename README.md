@@ -31,3 +31,13 @@ The goal is to create the foundational data management tools and artifacts that 
 
 - Write a paragraph discussing what data governance roles and responsibilities will be necessary to oversee this new Data Management initiative.
 
+## Enterprise Data Model
+
+## Data Quality Monitoring Dashboard
+
+## Registry Master Data Management - Diagram
+
+## Registry Master Data Management - Table
+
+
+

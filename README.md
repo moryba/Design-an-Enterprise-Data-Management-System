@@ -34,9 +34,11 @@ The goal is to create the foundational data management tools and artifacts that 
 ## Enterprise Data Model
 ![alt text](EDM.png)
 
+## Registry Master Data Management - Diagram 
+![alt text](MDM.png)
+
+## Registry Master Data Management - Table
+
 ## Data Quality Monitoring Dashboard
 ![alt text](Dashboard.png)
 ![alt text](Dashboard_2.png)
-
-## Registry Master Data Management - Diagram 
-![alt text](MDM.png)

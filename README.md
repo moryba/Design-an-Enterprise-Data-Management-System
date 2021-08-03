@@ -38,6 +38,7 @@ The goal is to create the foundational data management tools and artifacts that 
 ![alt text](MDM.png)
 
 ## Registry Master Data Management - Table
+![alt text](MDM_table.jpg)
 
 ## Data Quality Monitoring Dashboard
 ![alt text](Dashboard.png)

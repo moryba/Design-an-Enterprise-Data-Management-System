@@ -17,17 +17,17 @@ The goal is to create the foundational data management tools and artifacts that 
 
 ## Process
 
-Create an Enterprise Conceptual Model that provide a holistic view of data in these three systems
+- Create an Enterprise Conceptual Model that provide a holistic view of data in these three systems
 
-Design the draft version of the Enterprise Data Catalog by documenting the metadata in an Excel spreadsheet.
+- Design the draft version of the Enterprise Data Catalog by documenting the metadata in an Excel spreadsheet.
 
-Profile the data to identify 3 data quality issues. Create a document that lists each data quality issue, its description, and a suggested remediation strategy for each.
+- Profile the data to identify 3 data quality issues. Create a document that lists each data quality issue, its description, and a suggested remediation strategy for each.
 
-Design a data quality dashboard that will report on the issues you’ve identified above plus at least 1 more issue that you foresee might occur in the future.
+- Design a data quality dashboard that will report on the issues you’ve identified above plus at least 1 more issue that you foresee might occur in the future.
 
-Based on what you’ve read about SneakerPark’s systems and business model, sketch out a proposed MDM implementation architecture, and write a detailed explanation of why you chose this specific approach.
+- Sketch out a proposed MDM implementation architecture, and write a detailed explanation of why you  chose this specific approach.
 
-You will define a set of matching rules that will be used by SneakerPark's MDM Hub to match item and customer entities between the company's different systems.
+- Define a set of matching rules that will be used by SneakerPark's MDM Hub to match item and customer entities between the company's different systems.
 
-Write a paragraph discussing what data governance roles and responsibilities will be necessary to oversee this new Data Management initiative.
+- Write a paragraph discussing what data governance roles and responsibilities will be necessary to oversee this new Data Management initiative.
 

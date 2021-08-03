@@ -38,9 +38,5 @@ The goal is to create the foundational data management tools and artifacts that 
 ![alt text](Dashboard.png)
 ![alt text](Dashboard_2.png)
 
-## Registry Master Data Management - Diagram
-
-## Registry Master Data Management - Table
-
-
-
+## Registry Master Data Management - Diagram 
+![alt text](MDM.png)
